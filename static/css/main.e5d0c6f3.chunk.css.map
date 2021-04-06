@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,YAAa,CACb,4BACF","file":"main.e5d0c6f3.chunk.css","sourcesContent":[".nav {\n  display: flex;\n  justify-content: space-around;\n}"]}
